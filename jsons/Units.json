@@ -384,7 +384,7 @@
 		"name": "Piyade",
 		"unitType": "Gunpowder",
 		"replaces": "Great War Infantry",
-		"uniqueTo": "Turkey",
+		"uniqueTo": "Turkiye",
 		"movement": 2,
 		"strength": 48,
 		"cost": 320,

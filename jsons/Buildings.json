@@ -121,7 +121,7 @@
 	{
 		"name": "Liman",
 		"replaces": "Harbor",
-		"uniqueTo": "Turkey"
+		"uniqueTo": "Turkiye"
 		"cost": 120,
 		"maintenance": 2,
 		"hurryCostModifier": 25,

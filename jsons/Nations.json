@@ -536,7 +536,7 @@
 	},	
 	
 	{
-		"name": "Turkey",
+		"name": "Turkiye",
 		"leaderName": "İsmet İnönü",
 		"adjective": ["Turkish"],
 		"startBias": ["Avoid [Tundra]", "Avoid [Jungle]"],

@@ -149,7 +149,7 @@
 	{
 		"name": "Dojo",
 		"replaces": "Armory",
-		"uniqueTo": "Japan",
+		"uniqueTo": "Nippon Teikoku",
 		"cost": "160",
 		"hurryCostModifier": 25,
 		"culture": 1

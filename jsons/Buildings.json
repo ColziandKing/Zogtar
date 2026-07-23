@@ -137,7 +137,7 @@
 	{
 		"name": "Frontier Outpost",
 		"replaces": "Armory",
-		"uniqueTo": "America",
+		"uniqueTo": "Confederate America",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"requiredBuilding": "Barracks",

@@ -152,7 +152,7 @@
 		"name": "Zero",
 		"unitType": "Fighter",
 		"replaces": "Fighter",
-		"uniqueTo": "Empire of Japan",
+		"uniqueTo": "Nippon Teikoku",
 		"movement": 1,
 		"strength": 45,
 		"rangedStrength": 45,
@@ -173,7 +173,7 @@
 		"name": "Yamato-Class",
 		"unitType": "Ranged Water",
 		"replaces": "Battleship",
-		"uniqueTo": "Empire of Japan",
+		"uniqueTo": "Japan",
 		"movement": 5,
 		"strength": 65,
 		"rangedStrength": 65,
@@ -414,20 +414,4 @@
 		//German unique unit, stronger than Tank
 		//Is replaced by Tiger I instead
 	},
-	
-	{
-		"name": "U-Boat",
-		"replaces": "Submarine"
-		"unitType": "Submarine",
-		"uniqueTo": "Germany",
-		"movement": 5,
-		"strength": 35,
-		"rangedStrength": 60,
-		"cost": 325,
-		"requiredTech": "Refrigeration",
-		"upgradesTo": "Nuclear Submarine",
-		"promotion": "[Commerce Raider]",
-		"uniques": ["[+75]% Strength <when attacking>", "Can only attack [Water] tiles", "Never appears as a Barbarian unit","[+1] Movement <in [Foreign] tiles>"],
-		"attackSound": "torpedo" //Replace with another Imperial German unit
-	}
 ]

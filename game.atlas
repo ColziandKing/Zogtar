@@ -518,7 +518,7 @@ UnitPromotionIcons/Kamikaze!
 
 
 
-game1.png
+game6.png
 size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -2834,7 +2834,7 @@ UnitIcons/Sherden Warrior
   offset: 0, 0
   index: -1
 
-game6.png
+game1.png
 size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear

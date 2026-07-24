@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Tzompantli",
-		"uniqueTo": "Aztec",
+		"uniqueTo": "Aztecs",
 		"replaces": "Monument",
 		"specialistSlots":{"Artist" : 1},
 		"culture": 2,

@@ -2,7 +2,7 @@
 	{
 		"name": "Tiger I",
 		"unitType": "Armored",
-		"uniqueTo": "German Reich",
+		"uniqueTo": "Germany",
 		"replaces": "Panzer"
 		"replaces": "Tank",
 		"movement": 4,
@@ -51,7 +51,7 @@
 	{
 		"name": "BM-13 'Katyusha'",
 		"unitType": "Siege",
-		"uniqueTo": "Soviet Union",
+		"uniqueTo": "Russia",
 		"replaces": "Rocket Artillery",
 		"movement": 2,
 		"strength": 30,
@@ -121,7 +121,7 @@
 		"name": "Black Brigade Infantry",
 		"unitType": "Gunpowder",
 		"replaces": "Infantry",
-		"uniqueTo": "Republic of Poland",
+		"uniqueTo": "Poland",
 		"movement": 2,
 		"strength": 75,
 		"cost": 375,
@@ -402,7 +402,7 @@
 		"name": "Panzer",
 		"unitType": "Armored",
 		"replaces": "Tank",
-		"uniqueTo": "Germany"
+		"uniqueTo": "Germanyi"
 		"movement": 6,
 		"strength": 80,
 		"cost": 375,

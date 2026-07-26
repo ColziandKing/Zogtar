@@ -19,7 +19,7 @@
 	{
 		"name": "Ju 87",
 		"unitType": "Bomber",
-		"uniqueTo": "German Reich",
+		"uniqueTo": "Germany",
 		"replaces": "Bomber",
 		"movement": 1,
 		"strength": 70,

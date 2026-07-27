@@ -10081,7 +10081,7 @@ NationIcons/Wales
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Wallachia
+NationIcons/Colziand Rule
   rotate: false
   xy: 436, 1296
   size: 100, 100
@@ -10172,7 +10172,7 @@ NationIcons/Yuan
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Colziand
+NationIcons/Colziand Kingdom
   rotate: false
   xy: 976, 1404
   size: 100, 100

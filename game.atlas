@@ -10214,14 +10214,14 @@ PolicyBranchIcons/Humor
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyBranchIcons/Voluntarism
+PolicyBranchIcons/Revolution
   rotate: false
   xy: 62, 150
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Dual Crown Authority
+PolicyIcons/Peaceperial
   rotate: false
   xy: 220, 482
   size: 50, 50
@@ -10249,7 +10249,7 @@ PolicyIcons/Gelotology
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Insurgent Army
+PolicyIcons/Imperial Fullysia
   rotate: false
   xy: 1740, 1994
   size: 50, 50

@@ -3777,7 +3777,7 @@ NationIcons/Jordan
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Judea
+NationIcons/Suzainswellia
   rotate: false
   xy: 760, 436
   size: 100, 100
@@ -10039,7 +10039,7 @@ NationIcons/Vermont
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Viceroyalty of Peru
+NationIcons/Principality of Fullysia
   rotate: false
   xy: 220, 1296
   size: 100, 100
@@ -10249,7 +10249,7 @@ PolicyIcons/Gelotology
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Imperial Fullysia
+PolicyIcons/Insurgent Army
   rotate: false
   xy: 1740, 1994
   size: 50, 50

@@ -10095,7 +10095,7 @@ NationIcons/Wei
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Western Rome
+PolicyIcons/Peaceperial
   rotate: false
   xy: 868, 1620
   size: 100, 100
@@ -10221,7 +10221,7 @@ PolicyBranchIcons/Revolution
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Peaceperial
+PolicyIcons/Dual Crown Authority
   rotate: false
   xy: 220, 482
   size: 50, 50

@@ -1,5 +1,5 @@
 # Zogtar
-U got. Keep moving forward!
+U got it. Keep moving forward!
 [
 	"Positive Christianity",
 	"State Shintoism"

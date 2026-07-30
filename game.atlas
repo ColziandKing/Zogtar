@@ -10081,7 +10081,7 @@ NationIcons/Wales
   orig: 100, 100
   offset: 0, 0
   index: -1
-PolicyIcons/Colziand Rule
+PolicyIcons/Superial Rule
   rotate: false
   xy: 436, 1296
   size: 100, 100
@@ -10095,7 +10095,7 @@ NationIcons/Wei
   orig: 100, 100
   offset: 0, 0
   index: -1
-PolicyIcons/Peaceperial
+PolicyIcons/Peaceperial Union
   rotate: false
   xy: 868, 1620
   size: 100, 100
